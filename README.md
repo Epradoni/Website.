@@ -8,4 +8,3 @@ In short: I will become a master in Front-End Development...2021
 3
 4
 5
-6
